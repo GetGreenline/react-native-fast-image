@@ -7,11 +7,9 @@
     "lib": [
       "ESNext"
     ],
-    "allowJs": true,
     "importHelpers": true,
     "declarationMap": true,
     "declaration": true,
-    "emitDeclarationOnly": true,
     "sourceMap": true,
     "strict": true,
     "noImplicitAny": true,
